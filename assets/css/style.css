@@ -15095,3 +15095,5 @@ body.offcanvas-open .sticky-header {
 .loginContainer .block-title{border-bottom: none;}
 .loginContainer .block-title p{font-size: 14px;margin: 10px 0 0;}
 .condition{font-size: 12px;}
+.topbar-section.bg-purple{background-color:#6436a0;}
+.topbar-section.bg-purple p{margin:3px 0;}
